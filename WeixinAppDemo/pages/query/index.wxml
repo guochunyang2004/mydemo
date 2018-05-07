@@ -1,0 +1,36 @@
+<view class="group">
+  <block wx:for="{{iconSize}}">
+    <icon type="success" size="{{item}}" />
+  </block>
+</view>
+<view class="group">
+  <block wx:for="{{iconType}}">
+    <icon type="{{item}}" size="40" />
+  </block>
+</view>
+<view class="group">
+  <block wx:for="{{iconColor}}">
+    <icon type="success" size="40" color="{{item}}" />
+  </block>
+</view>
+<view>
+  <text>{{text}}</text>
+  <button bindtap="add">add line</button>
+</view>
+<view>
+  <view class="section__title">地区选择器</view>
+  <picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+    <view class="picker">
+      当前选择：{{array[index]}}
+    </view>
+  </picker>
+</view>
+<map id="map" scale="14" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" show-location="true" style="width: 100%; height: 300px;"></map>
+
+<!-- canvas.wxml -->
+<canvas style="width: 300px; height: 200px;" canvas-id="firstCanvas"></canvas>
+<!-- 当使用绝对定位时，文档流后边的 canvas 的显示层级高于前边的 canvas -->
+<canvas style="width: 400px; height: 500px;" canvas-id="secondCanvas"></canvas>
+<!-- 因为 canvas-id 与前一个 canvas 重复，该 canvas 不会显示，并会发送一个错误事件到 AppService -->
+<canvas style="width: 400px; height: 500px;" canvas-id="secondCanvas" binderror="canvasIdErrorCallback"></canvas>
+

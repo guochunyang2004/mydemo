@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcy.WebmvcDemo.WebApi", "gcy.WebmvcDemo.WebApi\gcy.WebmvcDemo.WebApi.csproj", "{78973EB7-D869-4871-BE9D-37E227EE4831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcy.WebmvcDemo.Service", "gcy.WebmvcDemo.Service\gcy.WebmvcDemo.Service.csproj", "{A087B5CF-2626-46CA-92D9-F9EC9C9A2445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcy.WebmvcDemo.Dao", "gcy.WebmvcDemo.Dao\gcy.WebmvcDemo.Dao.csproj", "{C9195229-A16C-4315-9290-3EA892FA51D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcy.WebmvcDemo.Redis", "gcy.WebmvcDemo.Redis\gcy.WebmvcDemo.Redis.csproj", "{1A43DCC8-9FFD-447E-AA2D-906353E96F4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{A30108F5-538A-465C-AA32-6103AA7F2C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcy.WebmvcDemo.Entity", "gcy.WebmvcDemo.Entity\gcy.WebmvcDemo.Entity.csproj", "{CC85B51F-7B53-431E-AFA8-2D3CBB9699A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{98D54BF3-4193-4213-AE51-FA4B89C37EE9}"
+	ProjectSection(SolutionItems) = preProject
+		readmd.txt = readmd.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78973EB7-D869-4871-BE9D-37E227EE4831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78973EB7-D869-4871-BE9D-37E227EE4831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78973EB7-D869-4871-BE9D-37E227EE4831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78973EB7-D869-4871-BE9D-37E227EE4831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A087B5CF-2626-46CA-92D9-F9EC9C9A2445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A087B5CF-2626-46CA-92D9-F9EC9C9A2445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A087B5CF-2626-46CA-92D9-F9EC9C9A2445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A087B5CF-2626-46CA-92D9-F9EC9C9A2445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9195229-A16C-4315-9290-3EA892FA51D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9195229-A16C-4315-9290-3EA892FA51D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9195229-A16C-4315-9290-3EA892FA51D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9195229-A16C-4315-9290-3EA892FA51D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A43DCC8-9FFD-447E-AA2D-906353E96F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A43DCC8-9FFD-447E-AA2D-906353E96F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A43DCC8-9FFD-447E-AA2D-906353E96F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A43DCC8-9FFD-447E-AA2D-906353E96F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC85B51F-7B53-431E-AFA8-2D3CBB9699A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC85B51F-7B53-431E-AFA8-2D3CBB9699A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC85B51F-7B53-431E-AFA8-2D3CBB9699A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC85B51F-7B53-431E-AFA8-2D3CBB9699A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C9195229-A16C-4315-9290-3EA892FA51D5} = {A30108F5-538A-465C-AA32-6103AA7F2C45}
+		{1A43DCC8-9FFD-447E-AA2D-906353E96F4E} = {A30108F5-538A-465C-AA32-6103AA7F2C45}
+	EndGlobalSection
+EndGlobal

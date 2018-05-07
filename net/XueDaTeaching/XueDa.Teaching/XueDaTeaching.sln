@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XueDa.Teaching.Repository", "XueDa.Teaching.Repository\XueDa.Teaching.Repository\XueDa.Teaching.Repository.csproj", "{55B5AD72-3B87-4ED3-A6F7-A989D0F742F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XueDa.Teaching.Service", "XueDa.Teaching.Service\XueDa.Teaching.Service\XueDa.Teaching.Service.csproj", "{2D2329D1-432A-4BF4-852E-B85DF2001189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XueDa.Teaching.WebApi", "XueDa.Teaching.WebApi\XueDa.Teaching.WebApi\XueDa.Teaching.WebApi.csproj", "{592A0220-2A44-4755-AA4D-3AEE2F23CD6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XueDa.Teaching.Model", "XueDa.Teaching.Model\XueDa.Teaching.Model\XueDa.Teaching.Model.csproj", "{95A8FF15-75F6-4DDC-93A6-9C5B8540C8F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{8F0ABCCA-A963-4CAA-B3DC-42699A8C706C}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55B5AD72-3B87-4ED3-A6F7-A989D0F742F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B5AD72-3B87-4ED3-A6F7-A989D0F742F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B5AD72-3B87-4ED3-A6F7-A989D0F742F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B5AD72-3B87-4ED3-A6F7-A989D0F742F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2329D1-432A-4BF4-852E-B85DF2001189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2329D1-432A-4BF4-852E-B85DF2001189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2329D1-432A-4BF4-852E-B85DF2001189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2329D1-432A-4BF4-852E-B85DF2001189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592A0220-2A44-4755-AA4D-3AEE2F23CD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592A0220-2A44-4755-AA4D-3AEE2F23CD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592A0220-2A44-4755-AA4D-3AEE2F23CD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592A0220-2A44-4755-AA4D-3AEE2F23CD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A8FF15-75F6-4DDC-93A6-9C5B8540C8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A8FF15-75F6-4DDC-93A6-9C5B8540C8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A8FF15-75F6-4DDC-93A6-9C5B8540C8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A8FF15-75F6-4DDC-93A6-9C5B8540C8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

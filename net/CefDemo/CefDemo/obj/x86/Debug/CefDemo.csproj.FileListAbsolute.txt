@@ -1,0 +1,12 @@
+E:\codesvn\gcyDemo\net\CefDemo\CefDemo\bin\x86\Debug\CefDemo.exe.config
+E:\codesvn\gcyDemo\net\CefDemo\CefDemo\bin\x86\Debug\CefDemo.exe
+E:\codesvn\gcyDemo\net\CefDemo\CefDemo\bin\x86\Debug\CefDemo.pdb
+E:\codesvn\gcyDemo\net\CefDemo\CefDemo\bin\x86\Debug\Xilium.CefGlue.dll
+E:\codesvn\gcyDemo\net\CefDemo\CefDemo\bin\x86\Debug\Xilium.CefGlue.pdb
+E:\codesvn\gcyDemo\net\CefDemo\CefDemo\bin\x86\Debug\Xilium.CefGlue.xml
+E:\codesvn\gcyDemo\net\CefDemo\CefDemo\obj\x86\Debug\CefDemo.csprojResolveAssemblyReference.cache
+E:\codesvn\gcyDemo\net\CefDemo\CefDemo\obj\x86\Debug\CefDemo.Demo.resources
+E:\codesvn\gcyDemo\net\CefDemo\CefDemo\obj\x86\Debug\CefDemo.Properties.Resources.resources
+E:\codesvn\gcyDemo\net\CefDemo\CefDemo\obj\x86\Debug\CefDemo.csproj.GenerateResource.Cache
+E:\codesvn\gcyDemo\net\CefDemo\CefDemo\obj\x86\Debug\CefDemo.exe
+E:\codesvn\gcyDemo\net\CefDemo\CefDemo\obj\x86\Debug\CefDemo.pdb

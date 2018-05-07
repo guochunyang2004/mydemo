@@ -1,0 +1,15 @@
+C:\Users\Wong\Downloads\Xilium.CefGlue\Bin\Xilium.CefGlue.WindowsForms.dll
+C:\Users\Wong\Downloads\Xilium.CefGlue\Bin\Xilium.CefGlue.WindowsForms.pdb
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\CefGlue.WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.dll
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.pdb
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\Bin\Xilium.CefGlue.WindowsForms.dll
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\Bin\Xilium.CefGlue.WindowsForms.pdb
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\CefGlue.WindowsForms.csprojResolveAssemblyReference.cache
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.dll
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.pdb
+F:\soft\dev-net\Xilium.CefGlue\Bin\Xilium.CefGlue.WindowsForms.dll
+F:\soft\dev-net\Xilium.CefGlue\Bin\Xilium.CefGlue.WindowsForms.pdb
+F:\soft\dev-net\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\CefGlue.WindowsForms.csprojResolveAssemblyReference.cache
+F:\soft\dev-net\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.dll
+F:\soft\dev-net\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.pdb

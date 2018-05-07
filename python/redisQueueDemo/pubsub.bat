@@ -1,0 +1,2 @@
+"%cd%\pubsub.py"
+pause

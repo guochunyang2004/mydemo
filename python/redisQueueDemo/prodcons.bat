@@ -1,0 +1,2 @@
+"%cd%\prodcons.py"
+pause

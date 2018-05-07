@@ -1,0 +1,24 @@
+### 数据库
+SqlSugar：http://www.codeisbug.com/
+Nuget安装：Install-Package sqlSugar 
+
+### http://www.cnblogs.com/landeanfen/p/5210356.html
+
+API接口测试工具 - WebApiTestClient使用--Nuget引入组件：  A Simple Test Client for ASP.NET Web API  (搜索：webapitestclient)
+Api.cshtml文件添加：
+@Html.DisplayForModel("TestClientDialogs")
+@section Scripts{
+    <link href="~/Areas/HelpPage/HelpPage.css" rel="stylesheet" />
+    @Html.DisplayForModel("TestClientReferences")
+}
+
+项目上面点右键→属性→生成标签页配置xml的路径
+
+config.SetDocumentationProvider(new XmlDocumentationProvider(HttpContext.Current.Server.MapPath("~/App_Data/WebApiTestClient.XML")));
+
+
+### swagger安装 :https://www.cnblogs.com/xcsn/p/7910890.html
+Install-Package Swashbuckle -Version 5.6.0
+
+为接口添加xml注释:
+	 c.IncludeXmlComments(string.Format("{0}/bin/SwaggerMvc5Demo.XML", System.AppDomain.CurrentDomain.BaseDirectory));

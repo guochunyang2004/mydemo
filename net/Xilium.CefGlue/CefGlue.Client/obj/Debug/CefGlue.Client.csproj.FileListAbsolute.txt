@@ -1,0 +1,25 @@
+C:\Users\Wong\Downloads\Xilium.CefGlue\Bin\Xilium.CefGlue.Client.exe.config
+C:\Users\Wong\Downloads\Xilium.CefGlue\Bin\Xilium.CefGlue.Client.exe
+C:\Users\Wong\Downloads\Xilium.CefGlue\Bin\Xilium.CefGlue.Client.pdb
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.Client\obj\Debug\CefGlue.Client.csprojResolveAssemblyReference.cache
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.MainForm.resources
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.Client\obj\Debug\CefGlue.Client.csproj.GenerateResource.Cache
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.exe
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.pdb
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\Bin\Xilium.CefGlue.Client.exe.config
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\Bin\Xilium.CefGlue.Client.exe
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\Bin\Xilium.CefGlue.Client.pdb
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\CefGlue.Client\obj\Debug\CefGlue.Client.csprojResolveAssemblyReference.cache
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.MainForm.resources
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\CefGlue.Client\obj\Debug\CefGlue.Client.csproj.GenerateResource.Cache
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.exe
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.pdb
+F:\soft\dev-net\Xilium.CefGlue\Bin\Xilium.CefGlue.Client.exe.config
+F:\soft\dev-net\Xilium.CefGlue\Bin\Xilium.CefGlue.Client.exe
+F:\soft\dev-net\Xilium.CefGlue\Bin\Xilium.CefGlue.Client.pdb
+F:\soft\dev-net\Xilium.CefGlue\CefGlue.Client\obj\Debug\CefGlue.Client.csprojResolveAssemblyReference.cache
+F:\soft\dev-net\Xilium.CefGlue\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.MainForm.resources
+F:\soft\dev-net\Xilium.CefGlue\CefGlue.Client\obj\Debug\CefGlue.Client.csproj.GenerateResource.Cache
+F:\soft\dev-net\Xilium.CefGlue\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.exe
+F:\soft\dev-net\Xilium.CefGlue\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.pdb
+F:\soft\dev-net\Xilium.CefGlue\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.FrmTest.resources

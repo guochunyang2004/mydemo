@@ -1,0 +1,15 @@
+C:\Users\Wong\Downloads\Xilium.CefGlue\Bin\Xilium.CefGlue.Demo.dll
+C:\Users\Wong\Downloads\Xilium.CefGlue\Bin\Xilium.CefGlue.Demo.pdb
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.Demo\obj\Debug\CefGlue.Demo.csprojResolveAssemblyReference.cache
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.Demo\obj\Debug\Xilium.CefGlue.Demo.dll
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.Demo\obj\Debug\Xilium.CefGlue.Demo.pdb
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\Bin\Xilium.CefGlue.Demo.dll
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\Bin\Xilium.CefGlue.Demo.pdb
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\CefGlue.Demo\obj\Debug\CefGlue.Demo.csprojResolveAssemblyReference.cache
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\CefGlue.Demo\obj\Debug\Xilium.CefGlue.Demo.dll
+E:\CEF(Chromium Enbedded Framework)\Xilium.CefGlue\CefGlue.Demo\obj\Debug\Xilium.CefGlue.Demo.pdb
+F:\soft\dev-net\Xilium.CefGlue\Bin\Xilium.CefGlue.Demo.dll
+F:\soft\dev-net\Xilium.CefGlue\Bin\Xilium.CefGlue.Demo.pdb
+F:\soft\dev-net\Xilium.CefGlue\CefGlue.Demo\obj\Debug\CefGlue.Demo.csprojResolveAssemblyReference.cache
+F:\soft\dev-net\Xilium.CefGlue\CefGlue.Demo\obj\Debug\Xilium.CefGlue.Demo.dll
+F:\soft\dev-net\Xilium.CefGlue\CefGlue.Demo\obj\Debug\Xilium.CefGlue.Demo.pdb
