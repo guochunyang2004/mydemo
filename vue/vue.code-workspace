@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "vue-demo"
+		},
+		{
+			"path": "vueadmindemo"
+		},
+		{
+			"path": "elementui-demo"
+		},
+		{
+			"path": "vuestic-admin"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
