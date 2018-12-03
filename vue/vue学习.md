@@ -19,3 +19,6 @@
     3. // 可以使用 `v-on:keyup.f1`
         Vue.config.keyCodes.f1 = 112
         @keyup.alt.67="clear"
+		
+4. 修改启动端口
+ "dev": "webpack-dev-server --inline --hot --host 0.0.0.0 --port 8090",

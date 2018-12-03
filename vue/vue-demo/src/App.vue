@@ -40,6 +40,7 @@
     </p>
 
     <button id="btnClick" v-on:click="onClick2('点击',$event)">点击</button>
+   
   </div>
 </template>
 
@@ -120,6 +121,7 @@ export default {
     }
   }
 };
+
 
 function CurentTime() {
   var now = new Date();

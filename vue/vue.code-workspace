@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "vuestic-admin"
+		},
+		{
+			"path": "vue-2.0-simple-routing-example"
 		}
 	],
 	"settings": {
