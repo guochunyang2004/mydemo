@@ -4,9 +4,6 @@
 			"path": "vue-demo"
 		},
 		{
-			"path": "vueadmindemo"
-		},
-		{
 			"path": "elementui-demo"
 		},
 		{
@@ -14,6 +11,15 @@
 		},
 		{
 			"path": "vue-2.0-simple-routing-example"
+		},
+		{
+			"path": "D:\\GitHub\\vue-enterprise-boilerplate"
+		},
+		{
+			"path": "D:\\GitHub\\vue2-happyfri"
+		},
+		{
+			"path": "my-project"
 		}
 	],
 	"settings": {
